@@ -101,6 +101,4 @@ theme: landscape
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: git
-  rtype: git@github.com:zoe19960813/zoe19960813.github.io.git
-  branch: main
+  type: 
